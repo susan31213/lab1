@@ -1,2 +1,2 @@
-Enter "g++ b.cpp" to compile.
-Enter "./a.out" to run.
+Enter "g++ -o b b.cpp" to compile.
+Enter "./b" to run.
